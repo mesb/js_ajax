@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Brian Mesembe",
+        "shortname": "Kobe",
+        "reknown": "Washington DC",
+        "bio": "Started learning how to program after reading encarta encyclopedia. Loves computer programming and software engineering. Currently a student in Montgomery college, pursuing a degree in Computer Science. Has fallen in love with JavaScript and looks foward to being a JS guru like John Resig"
+    },
+    
+    {
+        "name": "Jack Sparrow",
+        "shortname": "Jack",
+        "reknown": "Pirate Bay",
+        "bio": "Was Barbozah's colleague. He was marrooned once by his team mate and the black pearl stolen from him. He is the original owner of the black pearl and he loves the ship so much. He has a good temperament, he is a good fighter and he has a nice sense of humor."
+    },
+    
+    {
+        "name": "Captain America",
+        "shortname": "Capt",
+        "reknown": "Washington DC",
+        "bio": "Was a weak guy, but he had a strong heart. He is very selfless and cared more about his peers. An experiment was conducted that transformed him to a super human. He was chosen because of his selflessness. He became very powerful and was used by the army as a machine. He stopped several terrorists attacks and ended up falling in a very deep sleep, and eventually woke up in the year 2010. Nice huh!"
+    },
+    
+    {
+        "name": "Naruto Uzumaki",
+        "shortname": "Naruto",
+        "reknown": "Konoha Leaf Village",
+        "bio": "Naruto Uzumaki (うずまきナルト, Uzumaki Naruto) is a shinobi from Konohagakure. He became the jinchūriki of Kurama on the day of his birth, a fate that caused him to be ostracised by most of Konoha throughout his childhood. After becoming a member of Team Kakashi, Naruto works hard to gain the village's respect and acknowledgement with the eventual dream of becoming Hokage. In the years that follow, Naruto becomes a capable ninja and eventually becomes regarded as a hero, both by the villagers and the shinobi world at large."
+    },
+    
+    {
+        "name": "Sasuke Uchiha",
+        "shortname": "Sasuke",
+        "reknown": "Konoha Leaf Village",
+        "bio": " Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) is one of the last surviving members of Konohagakure's Uchiha clan. He becomes a shinobi so that he can become powerful enough to avenge his family by killing their murderer: his older brother, Itachi. He is initially a member of Konoha's Team 7, but later defects from the village to obtain power from Orochimaru and Akatsuki, becoming an international criminal. However, after running into a reincarnated Itachi and learning the truth about him, he has contributed greatly to the Allied Shinobi Forces, and is in the process of redeeming himself as a shinobi of his home village."
+    },
+    
+    {
+        "name": "Madara Uchiha",
+        "shortname": "Madara",
+        "reknown": "Konoha Leaf Village",
+        "bio": "Madara Uchiha (うちはマダラ, Uchiha Madara) is a legendary shinobi and a former leader of the Uchiha clan. After allying with his rival, Hashirama Senju, their two clans founded Konohagakure to achieve peace in the world. [4] He eventually came to an impasse with Hashirama, and defected from the village. He was later seemingly killed by his rival at the battle at the Valley of the End, but in fact survived and went into hiding, continuing his own plans to end world conflict. Unable to complete it in his natural life, he entrusted his knowledge and plans to Obito Uchiha after his passing. Madara was eventually revived during the Fourth Shinobi World War, allowing him to continue his plans personally."
+    },
+    
+    {
+        "name": "Shinju",
+        "shortname": "Ten_Tails",
+        "reknown": "Konoha Leaf Village",
+        "bio": "The Shinju (神樹), more commonly referred to as the Ten-Tails (十尾, Jūbi), is a primordial entity tied to the legend of the Sage of the Six Paths. A menace to life in the distant past, the Sage and his brother managed to defeat the Ten-Tails and harness its power to usher humanity into a new era. At the end of his life, the Sage split the Ten-Tails into the nine tailed beasts so that its power could never be used against the world again.[3] Centuries later its revival becomes the objective of Akatsuki. The world of ninja unites in opposition to this goal, resulting in the Fourth Shinobi World War."
+    },
+    
+    {
+        "name": "Hamura Ōtsutsuki",
+        "shortname": "Hamura",
+        "reknown": "Konoha Leaf Village",
+        "bio": "Hamura Ōtsutsuki (大筒木ハムラ, Ōtsutsuki Hamura) was the son of princess Kaguya Ōtsutsuki‎‎ and the brother of Hagoromo Ōtsutsuki. Alongside his brother, he was one of the first humans to be born with chakra."
+           },
+    
+    {
+        "name": "Hagoromo Ōtsutsuki",
+        "shortname": "Hagoromo",
+        "reknown": "Konoha Leaf Village",
+        "bio": "Hagoromo Ōtsutsuki (大筒木ハゴロモ, Ōtsutsuki Hagoromo), known to the world at large as the Sage of the Six Paths (六道仙人, Rikudō Sennin), was a legendary god-like figure who founded ninshū and created the ninja world. He was the son of Princess Kaguya Ōtsutsuki‎‎ and, alongside his brother, one of the first of humans to be born with chakra. He and his brother defeated the Ten-Tails in battle, and sealed the powerful beast within him, thus making Hagoromo the first jinchūriki."
+        },
+    
+    {
+        "name": "Obito Uchiha",
+        "shortname": "Obito",
+        "reknown": "Konoha Leaf Village",
+        "bio": "Obito Uchiha (うちはオビト, Uchiha Obito) was a chūnin from Konohagakure who was believed to have died during the Third Shinobi World War after the right side of his body was crushed by a boulder, but survived with the help of Madara Uchiha. Distraught by the death of the girl he loved during his teenage years, he later became a criminal and dedicated his efforts into working towards a plan to end world conflict, at times using the aliases of Tobi (トビ, Tobi), or Madara Uchiha (whom he has inherited his ambitions from). For years, Obito manipulated Akatsuki from the shadows to fulfill his ambitions before eventually going public with his plans, and declaring a Fourth Shinobi World War."
+    }
+    
+]
